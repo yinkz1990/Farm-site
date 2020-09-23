@@ -88,7 +88,7 @@ header a:hover {
 /* showCase*/
 #showcase {
     min-height: 400px;
-    background: url("../image/yellow_farm.png") no-repeat 0 38%;
+    background: url("https://res.cloudinary.com/edugrid/image/upload/v1599793071/julie-_zqwt3j.jpg") no-repeat 0 38%;
     background-size: 100%;
     text-align: center;
     color: white;
